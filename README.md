@@ -22,7 +22,7 @@ Say you have the directory structure as follows:
         - git_project_3
         - ...
 
-And you want to do `git-pull` for each git project. Once you call `puller` when you're in the `Repository` directory, it will do `git-pull` for each git repository.
+Once you call `puller` when you're in the `Repository` directory, it will do `git-pull` for each git repository.
 
 Install
 =======
